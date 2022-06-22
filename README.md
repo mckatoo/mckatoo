@@ -1,7 +1,7 @@
 <div align='center'>
   <h1>🤓 Wellcome 🎉</h1>
   <h2>Hello <img 
-  src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">. My name is Milton Carlos Katoo and this is my repository.</h2>
+  src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30">. My name is Milton Carlos Katoo and this is my repository.</h2>
 
   [![Milton's GitHub stats](https://github-readme-stats.vercel.app/api?username=mckatoo&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/mckatoo/github-readme-stats)
 
